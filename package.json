@@ -1,0 +1,19 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "https://faculdade.grancursosonline.com.br/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marrone1/Gerenciamento-de-Estoque.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marrone1/Gerenciamento-de-Estoque/issues"
+  },
+  "homepage": "https://github.com/Marrone1/Gerenciamento-de-Estoque#readme"
+}
